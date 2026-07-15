@@ -84,13 +84,6 @@
 | **静默激活** | 后台运行 | 无干扰 |
 | **定期更新** | 持续维护 | 长期有效 |
 
----
-
-## 📸 预览
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/83de6ed8-872e-4a01-be14-a547273ba3db" alt="预览" width="800" />
-</div>
 
 ---
 
